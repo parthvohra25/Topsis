@@ -55,9 +55,9 @@ def hello_world():
     result=ans.to_csv("output.csv",index=False)
     port = 587
     server = "smtp-mail.outlook.com"
-    sender = "vasuvohra2504@outlook.com"
+    sender = "your-email-id"
     recipient = m
-    password = "vasu@123"
+    password = "email-id-password"
     msg = MIMEMultipart()       
     message = "This email includes an attachment"
     msg.attach(MIMEText(message, "plain"))
