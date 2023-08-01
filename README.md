@@ -53,12 +53,3 @@ output.csv
 
 - The output csv contains the ranks of all the rows i.e. Model M5 is the best among the others
 
-
-
-
-## License
-
-MIT
-
-**Free Software, Hell Yeah!**
-
