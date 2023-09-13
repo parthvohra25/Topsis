@@ -5,6 +5,10 @@ Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) is a mul
 
 To make this definition easier, let’s suppose you want to buy a mobile phone, you go to a shop and analyze 5 mobile phones on basis of RAM, memory, display size, battery, and price. At last, you’re confused after seeing so many factors and don’t know how to decide which mobile phone you should purchase. TOPSIS is a way to allocate the ranks on basis of the weights and impact of the given factors.
 
+## Published On
+- [PYPI](https://pypi.org/project/Topsis-Parth-102016044/)
+- [WebApp]()
+
 ## Features
 
 - Imports an input csv file and calculates Topsis scores and ranks of it
