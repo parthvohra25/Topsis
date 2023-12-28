@@ -7,7 +7,7 @@ To make this definition easier, let’s suppose you want to buy a mobile phone, 
 
 ## Published On
 - [PYPI](https://pypi.org/project/Topsis-Parth-102016044/)
-- [WebApp](https://github.com/parthvohra25/Topsis)
+- [WebApp](http://topsisgenerator.pythonanywhere.com/)
 
 ## Features
 
